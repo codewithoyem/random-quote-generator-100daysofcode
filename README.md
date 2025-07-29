@@ -52,5 +52,5 @@ A clean and simple Random Quote Generator built using HTML, CSS, and vanilla Jav
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quote-generator.git
+   git clone https://github.com/codewithoyem/random-quote-generator-100daysofcode.git
    cd quote-generator
