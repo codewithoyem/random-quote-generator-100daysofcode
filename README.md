@@ -6,7 +6,7 @@ A clean and simple Random Quote Generator built using HTML, CSS, and vanilla Jav
 
 ## 📸 Demo
 
-![Demo Screenshot](demo-screenshot.png)N
+![Demo Screenshot](demo-screenshot.png)
 
 ---
 
